@@ -25,6 +25,19 @@
       "state": "California",
       "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
     },
+     {
+      "type": "sales",
+      "name": "Sales Man 3",
+      "lat": 33.7749,
+      "lng": -133.4194,
+      "phone": "522-1234",
+      "website": "https://example2.com",
+      "address": "2224 Example St",
+      "city": "San Francisco",
+      "zip": "92104",
+      "state": "California",
+      "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
+    },
     {
       "type": "local",
       "name": "Local Distributor 1",
