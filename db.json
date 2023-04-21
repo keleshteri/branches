@@ -1,0 +1,55 @@
+[
+    {
+      "type": "sales",
+      "name": "Sales Man 1",
+      "lat": 37.7749,
+      "lng": -122.4194,
+      "phone": "555-1234",
+      "website": "https://example1.com",
+      "address": "1234 Example St",
+      "city": "San Francisco",
+      "zip": "94103",
+      "state": "California",
+      "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
+    },
+    {
+      "type": "sales",
+      "name": "Sales Man 2",
+      "lat": 31.7749,
+      "lng": -123.4194,
+      "phone": "522-1234",
+      "website": "https://example2.com",
+      "address": "2224 Example St",
+      "city": "San Francisco",
+      "zip": "92103",
+      "state": "California",
+      "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
+    },
+    {
+      "type": "local",
+      "name": "Local Distributor 1",
+      "lat": 37.8049,
+      "lng": -122.4494,
+      "phone": "555-5678",
+      "website": "https://example2.com",
+      "address": "5678 Example St",
+      "city": "San Francisco",
+      "zip": "94107",
+      "state": "California",
+      "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/warehouse.png"
+    },
+    {
+      "type": "national",
+      "name": "National Distributor 1",
+      "lat": 37.8249,
+      "lng": -122.4794,
+      "phone": "555-9012",
+      "website": "https://example3.com",
+      "address": "9012 Example St",
+      "city": "San Francisco",
+      "zip": "94111",
+      "state": "California",
+      "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/warehouse.png"
+    }
+  ]  
+  
