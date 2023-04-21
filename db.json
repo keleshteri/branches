@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "type": "sales",
       "name": "Sales Man 1",
       "lat": 37.7749,
@@ -13,6 +14,7 @@
       "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
     },
     {
+      "id": 2,
       "type": "sales",
       "name": "Sales Man 2",
       "lat": 31.7749,
@@ -26,6 +28,7 @@
       "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
     },
      {
+      "id": 3,
       "type": "sales",
       "name": "Sales Man 3",
       "lat": 33.7749,
@@ -39,6 +42,7 @@
       "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/salesman.png"
     },
     {
+      "id": 4,
       "type": "local",
       "name": "Local Distributor 1",
       "lat": 37.8049,
@@ -52,6 +56,7 @@
       "icon": "https://cdn11.bigcommerce.com/s-ojtp20u9v7/images/stencil/original/image-manager/warehouse.png"
     },
     {
+      "id": 5,
       "type": "national",
       "name": "National Distributor 1",
       "lat": 37.8249,
